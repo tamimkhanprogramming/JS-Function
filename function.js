@@ -21,3 +21,10 @@ function brushTeeth(){
 fanOffKor();
 console.log('---------');
 brushTeeth();
+
+function Program_BD(){
+
+    console.log("I am Doing Programming");
+}
+Program_BD();
+console.log("Hello");
